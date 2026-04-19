@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Krishna! 👋
 
-<!--
-**krishnabharadwajreddy-ctrl/krishnabharadwajreddy-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 1st Year BTech Student & AI Enthusiast
+I am currently a first-year engineering student focusing on mastering **C++** for logic building and **Python** for AI automation. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm working on:
+- 🛠️ Mastering **Data Structures & Algorithms** (C++).
+- 🤖 Building automated content systems using **n8n** and **Gemini API**.
+- 🎬 Exploring **AI Video Generation** for social media growth.
+
+### 🛠️ Tech Stack:
+- **Languages:** C++, Python (Learning)
+- **Tools:** n8n, VS Code, Git/GitHub
+- **Interests:** AI Automation, Content Creation, Backend Dev
+
+---
+
+### 📈 My Goals for 2026:
+- [ ] Solve 100+ LeetCode problems.
+- [ ] Build a fully automated YouTube "Video Factory."
+- [ ] Secure my first AI-related internship.
+
